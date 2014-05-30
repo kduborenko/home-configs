@@ -5,6 +5,7 @@
 !.gitignore
 !.gitmodules
 !.tmux.conf
+!.vimrc
 !.yaourtrc
 !.mongorc.js
 !.mongorc.settings.json
