@@ -1,0 +1,6 @@
+{
+    "verboseShell": true,
+    "indexParanoia": true,
+    "indent": "  ",
+    "uuidType": "java"
+}

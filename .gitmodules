@@ -1,0 +1,3 @@
+[submodule ".mongo.rc"]
+	path = .mongo.rc
+	url = git@github.com:kduborenko/mongo-hacker.git

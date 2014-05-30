@@ -3,5 +3,11 @@
 
 # Except
 !.gitignore
+!.gitmodules
 !.tmux.conf
 !.yaourtrc
+!.mongorc.js
+!.mongorc.settings.json
+!.mongorc.underscore.js
+!.mongorc.utils.js
+!.mongo.rc
