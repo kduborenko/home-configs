@@ -11,3 +11,4 @@
 !.mongorc.underscore.js
 !.mongorc.utils.js
 !.mongo.rc
+!underscore-min.js
